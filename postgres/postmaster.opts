@@ -1,0 +1,1 @@
+/nix/store/pv78b1nccq2zw6m03r3bhb7b8r31za7b-postgresql-10.22/bin/postgres "-D" "postgres"
